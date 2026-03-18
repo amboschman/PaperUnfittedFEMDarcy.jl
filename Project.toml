@@ -1,0 +1,13 @@
+name = "PaperUnfittedFEMDarcy"
+uuid = "42403660-79e6-4b07-bca3-d17f89a42e18"
+authors = ["Santiago Badia <santiago.badia@monash.edu>", "Anne Boschman <anne.boschman@monash.edu>", "Alberto F. Martin <alberto.f.martin@anu.edu.au>", "Erik Nilsson <erik.nilsson@umontpellier.fr>", "Ricardo Ruiz-Baier <ricardo.ruizbaier@monash.edu>", "Sara Zahedi <sara.zahedi@math.kth.se>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

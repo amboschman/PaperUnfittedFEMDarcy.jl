@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/UPDATE.svg)](https://zenodo.org/badge/latestdoi/UPDATE) # TODO ZENODO BADGE (placeholder)
+[![DOI](https://zenodo.org/badge/1114221142.svg)](https://doi.org/10.5281/zenodo.19199177)
 
 # PaperUnfittedFEMDarcy
 
